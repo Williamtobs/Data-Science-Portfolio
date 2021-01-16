@@ -4,3 +4,5 @@ A repository of the projects I am currently working on. It is updated regularly 
 PROJECTS
 1. Making Predictions with Simple Regression
 https://github.com/Williamtobs/Data-Science-Portfolio/blob/main/Weight%20Prediction.ipynb
+2. Making Predictions with Multiple Linear Regression 
+https://github.com/Williamtobs/Data-Science-Portfolio/blob/main/Regression%20Model/FuelConsump_Multi.ipynb
